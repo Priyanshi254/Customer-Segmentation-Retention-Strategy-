@@ -170,12 +170,8 @@ Customer-Retention-Analytics
 │
 └── README.md
 ```
-## Team Members
-
-This project was completed as a collaborative effort by:
+## Author
 
 * Priyanshi Maheshwari
-* Akshada Bhamare
-* Shruti Lonbale
   
 
