@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes customer purchase behavior for a Direct-to-Consumer (D2C) retail business to identify retention drivers, customer value patterns, and promotional dependency. The objective is to help the business improve customer retention through data-driven segmentation, behavioral analysis, and strategic recommendations.
+This project analyzes customer purchase behavior for a Direct-to-Consumer (D2C) retail business to identify retention drivers, customer value patterns, and promotional dependency. The objective is to improve customer retention through data-driven segmentation, behavioral analysis, and strategic recommendations.
 
 The project combines **Python**, **MySQL**, and **Power BI** to build a complete analytics workflow covering data preparation, feature engineering, customer segmentation, business analysis, and dashboard development.
 
@@ -38,23 +38,23 @@ The dataset contains approximately **3,900 customer records** with information r
 
 ## Tech Stack
 
-* **Python**
+### Python
 
-  * Pandas
-  * NumPy
-  * Scikit-learn
+* Pandas
+* NumPy
+* Scikit-learn
 
-* **MySQL**
+### MySQL
 
-  * Customer segmentation
-  * Business analysis
-  * Retention analysis
+* Customer Segmentation
+* Retention Analysis
+* Business Analytics
 
-* **Power BI**
+### Power BI
 
-  * Interactive dashboard
-  * KPI tracking
-  * Customer insights visualization
+* Interactive Dashboarding
+* KPI Tracking
+* Customer Insights Visualization
 
 ---
 
@@ -63,7 +63,7 @@ The dataset contains approximately **3,900 customer records** with information r
 ### 1. Data Cleaning
 
 * Handled missing values
-* Standardized categorical fields
+* Standardized categorical variables
 * Removed inconsistencies
 * Prepared data for analysis
 
@@ -136,7 +136,7 @@ Developed an interactive dashboard tracking:
 
 * Introduce tier-based loyalty programs
 * Increase subscription adoption
-* Implement segment-specific marketing
+* Implement segment-specific marketing campaigns
 
 ### Long-Term
 
@@ -148,13 +148,7 @@ Developed an interactive dashboard tracking:
 
 ## Dashboard Preview
 
-Add screenshots of your Power BI dashboard here.
-
-```markdown
-![Dashboard 1](images/dashboard_1.png)
-
-![Dashboard 2](images/dashboard_2.png)
-```
+![Customer Retention Dashboard](images/dashboard.jpeg)
 
 ---
 
@@ -164,24 +158,15 @@ Add screenshots of your Power BI dashboard here.
 Customer-Retention-Analytics
 │
 ├── data/
+│
 ├── notebooks/
 │   └── customer_retention_analysis.ipynb
 │
 ├── sql/
 │   └── customer_retention_queries.sql
 │
-├── dashboard/
-│   └── Founder_Dashboard.pbix
-│
 ├── images/
+│   └── dashboard.jpeg
 │
 └── README.md
 ```
-
----
-
-## Author
-
-**Naveen**
-
-Customer Segmentation & Retention Analytics Project
